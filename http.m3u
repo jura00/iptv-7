@@ -1,0 +1,425 @@
+﻿#EXTM3U type=ts dlna_extras=mpeg2 
+#EXTINF:0,Всё ТВ (Инфоканал Ростелеком)
+http://192.168.1.1:4022/udp/233.99.61.135:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg group-title="Основные" ,Первый канал HD
+http://192.168.1.1:4022/udp/233.99.61.33:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.jpg group-title="Основные" ,Первый канал
+http://192.168.1.1:4022/udp/233.99.61.1:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/gg/gtrk_vyatka.jpg group-title="Основные" ,Pоссия 1
+http://192.168.1.1:4022/udp/233.99.61.2:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rossiya_hd_ru.jpg group-title="Основные" ,Россия HD
+http://192.168.1.1:4022/udp/233.99.61.107:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_ru.jpg group-title="Основные" ,НТВ
+http://192.168.1.1:4022/udp/233.99.61.3:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/ren_tv.jpg group-title="Основные" ,РЕН ТВ
+http://192.168.1.1:4022/udp/233.99.61.6:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kanal5_petersburg.jpg group-title="Основные" ,Пятый канал
+http://192.168.1.1:4022/udp/233.99.61.15:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/peretz_tv.jpg group-title="Основные" ,Перец
+http://192.168.1.1:4022/udp/233.99.61.7:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rossiya_kultura.jpg group-title="Основные" ,Россия К
+http://192.168.1.1:4022/udp/233.99.61.10:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/sts_international.jpg group-title="Основные" ,СТС
+http://192.168.1.1:4022/udp/233.99.61.12:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tnt_ru.jpg group-title="Основные" ,ТНТ
+http://192.168.1.1:4022/udp/233.99.61.13:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tv3_ru.jpg group-title="Основные" ,ТВ 3
+http://192.168.1.1:4022/udp/233.99.61.209:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/domashniy.jpg group-title="Основные" ,Домашний
+http://192.168.1.1:4022/udp/233.99.61.8:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tv_centr.jpg group-title="Основные" ,ТВЦ
+http://192.168.1.1:4022/udp/233.99.61.9:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/uu/u_tv_ru.jpg group-title="Основные" ,Ю ТВ
+http://192.168.1.1:4022/udp/233.99.61.11:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/num/21_plus_ru.jpg group-title="Основные" ,21+
+http://192.168.1.1:4022/udp/233.99.61.40:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zvezda_telekanal.jpg group-title="Основные" ,Звезда
+http://192.168.1.1:4022/udp/233.99.61.122:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_ru.jpg group-title="Основные" ,MTV
+http://192.168.1.1:4022/udp/233.99.61.229:5000
+#EXTINF:0 group-title="Основные" ,Волга
+http://192.168.1.1:4022/udp/233.99.61.5:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nntv_ru.jpg group-title="Основные" ,ННТВ
+http://192.168.1.1:4022/udp/233.99.61.4:5000
+#EXTINF:0 group-title="Основные" ,Первый городской
+http://192.168.1.1:4022/udp/233.99.61.37:5000
+#EXTINF:0 group-title="Основные" ,Общественное телевидение России
+http://192.168.1.1:4022/udp/233.99.61.49:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rossiya_24.jpg group-title="Новости" ,Россия 24
+http://192.168.1.1:4022/udp/233.99.61.45:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rbc.jpg group-title="Новости" ,РБК ТВ
+http://192.168.1.1:4022/udp/233.99.61.53:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/expert_tv_ru.jpg group-title="Новости" ,Эксперт
+http://192.168.1.1:4022/udp/233.99.61.82:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/komsomolskaya_pravda.jpg group-title="Новости" ,Комсомольская правда
+http://192.168.1.1:4022/udp/233.99.61.237:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/dozhd.jpg group-title="Новости" ,Дождь
+http://192.168.1.1:4022/udp/233.99.61.91:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/euronews.jpg group-title="Новости" ,Euronews
+http://192.168.1.1:4022/udp/233.99.61.205:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv.jpg group-title="Новости" ,DW TV
+http://192.168.1.1:4022/udp/233.99.61.137:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/france24_francais.jpg group-title="Новости" ,France 24 (fr)
+http://192.168.1.1:4022/udp/233.99.61.20:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/france24_francais.jpg group-title="Новости" ,France 24 (eng)
+http://192.168.1.1:4022/udp/233.99.61.170:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/bbc_world_news_eu.jpg group-title="Новости" ,BBC World News
+http://192.168.1.1:4022/udp/233.99.61.132:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rt_english.jpg group-title="Новости" ,Russia Today
+http://192.168.1.1:4022/udp/233.99.61.125:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nhk_world.jpg group-title="Новости" ,NHK World
+http://192.168.1.1:4022/udp/233.99.61.181:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rossiya_2.jpg group-title="Спорт" ,Россия 2
+http://192.168.1.1:4022/udp/233.99.61.14:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/sport1_ru.jpg group-title="Спорт" ,Спорт 1
+http://192.168.1.1:4022/udp/233.99.61.68:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/sport1_ru.jpg group-title="Спорт" ,Спорт 2
+http://192.168.1.1:4022/udp/233.99.61.55:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/boytsovskiy_klub.jpg group-title="Спорт" ,Бойцовский клуб
+http://192.168.1.1:4022/udp/233.99.61.190:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/eurosport.jpg group-title="Спорт" ,Eurosport
+http://192.168.1.1:4022/udp/233.99.61.197:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.jpg group-title="Спорт" ,Eurosport 2
+http://192.168.1.1:4022/udp/233.99.61.210:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/eurosport_news.jpg group-title="Спорт" ,Eurosportnews
+http://192.168.1.1:4022/udp/233.99.61.168:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_east.jpg group-title="Спорт" ,Viasat Sport
+http://192.168.1.1:4022/udp/233.99.61.81:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_sport.jpg group-title="Спорт" ,НТВ-Плюс Спорт Плюс
+http://192.168.1.1:4022/udp/233.99.61.75:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_basketbol.jpg group-title="Спорт" ,НТВ-Плюс Баскетбол
+http://192.168.1.1:4022/udp/233.99.61.99:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nash_futbol.jpg group-title="Спорт" ,НТВ-Плюс Наш Футбол
+http://192.168.1.1:4022/udp/233.99.61.156:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/telekanal_futbol.jpg group-title="Спорт" ,Футбол
+http://192.168.1.1:4022/udp/233.99.61.235:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/espn_classic_eu.jpg group-title="Спорт" ,ESPN Classic Sports
+http://192.168.1.1:4022/udp/233.99.61.166:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/auto_plus.jpg group-title="Спорт" ,Авто-Плюс
+http://192.168.1.1:4022/udp/233.99.61.79:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/motors_tv.jpg group-title="Спорт" ,Motors TV
+http://192.168.1.1:4022/udp/233.99.61.176:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/ab_moteurs.jpg group-title="Спорт" ,AB Moteurs
+http://192.168.1.1:4022/udp/233.99.61.127:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/boets_ru.jpg group-title="Спорт" ,Боец
+http://192.168.1.1:4022/udp/233.99.61.43:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/khl_ru.jpg group-title="Спорт" ,КХЛ ТВ
+http://192.168.1.1:4022/udp/233.99.61.88:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/extreme_sports.jpg group-title="Спорт" ,Extreme Sports
+http://192.168.1.1:4022/udp/233.99.61.169:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russkij_extreme.jpg group-title="Спорт" ,Russian Extreme
+http://192.168.1.1:4022/udp/233.99.61.56:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mcm_top.jpg group-title="Музыка" ,MCM TOP
+http://192.168.1.1:4022/udp/233.99.61.142:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_dance_uk.jpg group-title="Музыка" ,MTV Dance
+http://192.168.1.1:4022/udp/233.99.61.177:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_uk.jpg group-title="Музыка" ,MTV Hits
+http://192.168.1.1:4022/udp/233.99.61.178:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_rocks_uk.jpg group-title="Музыка" ,MTV Rocks
+http://192.168.1.1:4022/udp/233.99.61.179:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/vh1_eu.jpg group-title="Музыка" ,VH-1 European
+http://192.168.1.1:4022/udp/233.99.61.211:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/vh1_classic_europe.jpg group-title="Музыка" ,VH-1 Classic
+http://192.168.1.1:4022/udp/233.99.61.186:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/bridge_tv_ru.jpg group-title="Музыка" ,Bridge TV
+http://192.168.1.1:4022/udp/233.99.61.21:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/europa_plus_tv.jpg group-title="Музыка" ,Europa Plus TV
+http://192.168.1.1:4022/udp/233.99.61.167:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/music_box_ru.jpg group-title="Музыка" ,Music Box
+http://192.168.1.1:4022/udp/233.99.61.198:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russian_musicbox.jpg group-title="Музыка" ,Music Box RU
+http://192.168.1.1:4022/udp/233.99.61.140:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/rusong_tv.jpg group-title="Музыка" ,Rusong TV
+http://192.168.1.1:4022/udp/233.99.61.185:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/ru_tv_ru.jpg group-title="Музыка" ,RU TV
+http://192.168.1.1:4022/udp/233.99.61.36:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/shanson_tv.jpg group-title="Музыка" ,Шансон ТВ
+http://192.168.1.1:4022/udp/233.99.61.141:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/telekanal_la_minor.jpg group-title="Музыка" ,Ля минор
+http://192.168.1.1:4022/udp/233.99.61.96:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mezzo.jpg group-title="Музыка" ,Mezzo
+http://192.168.1.1:4022/udp/233.99.61.174:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/a_one_tv.jpg group-title="Музыка" ,A-ONE
+http://192.168.1.1:4022/udp/233.99.61.19:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/o2_tv_ru.jpg group-title="Музыка" ,O2ТВ
+http://192.168.1.1:4022/udp/233.99.61.194:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/discovery_ru.jpg group-title="Познавательные" ,Discovery Channel
+http://192.168.1.1:4022/udp/233.99.61.202:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/discovery_science.jpg deinterlace=4 group-title="Познавательные" ,Discovery Science
+http://192.168.1.1:4022/udp/233.99.61.164:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/discovery_world.jpg deinterlace=4 group-title="Познавательные" ,Discovery World
+http://192.168.1.1:4022/udp/233.99.61.165:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_europe.jpg group-title="Познавательные" ,ID Investigation Discovery
+http://192.168.1.1:4022/udp/233.99.61.163:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tlc_ru.jpg group-title="Познавательные" ,TLC
+http://192.168.1.1:4022/udp/233.99.61.196:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zone_reality_europe.jpg group-title="Познавательные" ,Zone Reality
+http://192.168.1.1:4022/udp/233.99.61.188:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_explorer_ru.jpg group-title="Познавательные" ,Viasat Explorer
+http://192.168.1.1:4022/udp/233.99.61.216:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_history.jpg group-title="Познавательные" ,Viasat History
+http://192.168.1.1:4022/udp/233.99.61.226:5000
+#EXTINF:0 group-title="Познавательные" ,История
+http://192.168.1.1:4022/udp/233.99.61.109:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_ru.jpg group-title="Познавательные" ,National Geographic
+http://192.168.1.1:4022/udp/233.99.61.231:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_emea.jpg group-title="Познавательные" ,National Geographic Wild
+http://192.168.1.1:4022/udp/233.99.61.180:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature_east.jpg group-title="Познавательные" ,Viasat Nature
+http://192.168.1.1:4022/udp/233.99.61.187:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_ru.jpg group-title="Познавательные" ,Animal Planet
+http://192.168.1.1:4022/udp/233.99.61.201:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zoo_park_tv.jpg group-title="Познавательные" ,Zooпарк
+http://192.168.1.1:4022/udp/233.99.61.72:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/domashnie_zhivotnye.jpg group-title="Познавательные" ,Домашние животные
+http://192.168.1.1:4022/udp/233.99.61.143:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/travel_channel_europe.jpg group-title="Познавательные" ,Travel Channel
+http://192.168.1.1:4022/udp/233.99.61.155:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/moya_planeta.jpg group-title="Познавательные" ,Моя планета
+http://192.168.1.1:4022/udp/233.99.61.115:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kanal_teleputeshestviya.jpg group-title="Познавательные" ,Телепутешествия
+http://192.168.1.1:4022/udp/233.99.61.47:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/ocean_tv.jpg group-title="Познавательные" ,Ocean TV
+http://192.168.1.1:4022/udp/233.99.61.73:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/num/24_techno.jpg group-title="Познавательные" ,24 Техно
+http://192.168.1.1:4022/udp/233.99.61.93:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nauka20_ru.jpg group-title="Познавательные" ,Наука 2.0
+http://192.168.1.1:4022/udp/233.99.61.233:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/npo_holland_doc_24.jpg group-title="Познавательные" ,24 Doc 
+http://192.168.1.1:4022/udp/233.99.61.104:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/num/365_dnei_tv.jpg group-title="Познавательные" ,365 Дней ТВ
+http://192.168.1.1:4022/udp/233.99.61.117:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kto_est_kto.jpg group-title="Познавательные" ,Кто есть кто
+http://192.168.1.1:4022/udp/233.99.61.238:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zakon_tv.jpg group-title="Познавательные" ,Закон ТВ
+http://192.168.1.1:4022/udp/233.99.61.193:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/voprosy_i_otvety.jpg group-title="Познавательные" ,Вопросы и ответы
+http://192.168.1.1:4022/udp/233.99.61.78:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/psikhologiya_21.jpg group-title="Познавательные" ,Психология 21
+http://192.168.1.1:4022/udp/233.99.61.83:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kuhnya_tv.jpg group-title="Познавательные" ,Кухня ТВ
+http://192.168.1.1:4022/udp/233.99.61.98:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_drive.jpg group-title="Познавательные" ,Драйв
+http://192.168.1.1:4022/udp/233.99.61.219:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_zdorovoe_tv.jpg group-title="Познавательные" ,Здоровое ТВ
+http://192.168.1.1:4022/udp/233.99.61.220:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_usadba_telekanal.jpg group-title="Познавательные" ,Усадьба
+http://192.168.1.1:4022/udp/233.99.61.223:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/okhota_i_rybalka.jpg group-title="Познавательные" ,Охота и рыбалка
+http://192.168.1.1:4022/udp/233.99.61.221:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel_international.jpg group-title="Познавательные" ,Outdoor Channel
+http://192.168.1.1:4022/udp/233.99.61.183:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/da_vinci_learning.jpg group-title="Познавательные" ,Da Vinci Learning
+http://192.168.1.1:4022/udp/233.99.61.161:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/amazing_life.jpg group-title="Познавательные" ,Amazing Life
+http://192.168.1.1:4022/udp/233.99.61.17:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/oruzhie_telekanal.jpg group-title="Познавательные" ,Оружие
+http://192.168.1.1:4022/udp/233.99.61.71:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/gg/galaxy_tv_ru.jpg group-title="Познавательные" ,Galaxy
+http://192.168.1.1:4022/udp/233.99.61.171:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/strana_tv.jpg group-title="Познавательные" ,Страна
+http://192.168.1.1:4022/udp/233.99.61.23:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/agro_tv_ru.jpg group-title="Познавательные" ,Агро ТВ
+http://192.168.1.1:4022/udp/233.99.61.24:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/perviy_obrazovatelniy.jpg deinterlace=4 group-title="Познавательные" ,Первый образовательный
+http://192.168.1.1:4022/udp/233.99.61.30:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/znanie.jpg tvg-name="Znanie" group-title="Познавательные" ,Знание
+http://192.168.1.1:4022/udp/233.99.61.61:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/prosveshchenie.jpg group-title="Познавательные" ,Просвещение
+http://192.168.1.1:4022/udp/233.99.61.70:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/telekanal_2x2_moskva.jpg group-title="Детские" ,2х2
+http://192.168.1.1:4022/udp/233.99.61.200:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/telekanal_2x2_moskva.jpg group-title="Детские" ,2х2 (ural)
+http://192.168.1.1:4022/udp/233.99.61.207:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/karusel_tv.jpg group-title="Детские" ,Карусель
+http://192.168.1.1:4022/udp/233.99.61.42:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/detskij.jpg group-title="Детские" ,Детский
+http://192.168.1.1:4022/udp/233.99.61.134:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_detski_mir.jpg group-title="Детские" ,Детский мир & Телеклуб
+http://192.168.1.1:4022/udp/233.99.61.191:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/multimania.jpg group-title="Детские" ,Мультимания
+http://192.168.1.1:4022/udp/233.99.61.239:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_ru.jpg group-title="Детские" ,Disney
+http://192.168.1.1:4022/udp/233.99.61.224:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.jpg group-title="Детские" ,Nikelodeon
+http://192.168.1.1:4022/udp/233.99.61.213:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.jpg group-title="Детские" ,Nick Jr
+http://192.168.1.1:4022/udp/233.99.61.182:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_ce.jpg group-title="Детские" ,Cartoon Network
+http://192.168.1.1:4022/udp/233.99.61.230:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tiji.jpg group-title="Детские" ,Tiji
+http://192.168.1.1:4022/udp/233.99.61.116:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kids_co.jpg group-title="Детские" ,Kids Co
+http://192.168.1.1:4022/udp/233.99.61.112:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/gg/gulli.jpg group-title="Детские" ,Gulli TV
+http://192.168.1.1:4022/udp/233.99.61.172:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/jj/jim_jam_eu.jpg group-title="Детские" ,Jim Jam
+http://192.168.1.1:4022/udp/233.99.61.173:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/boomerang.jpg group-title="Детские" ,Boomerang
+http://192.168.1.1:4022/udp/233.99.61.152:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/baby_tv.jpg group-title="Детские" ,Baby TV
+http://192.168.1.1:4022/udp/233.99.61.153:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/radost_moya.jpg group-title="Детские" ,Радость моя
+http://192.168.1.1:4022/udp/233.99.61.212:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mat_i_ditya.jpg group-title="Детские" ,Мать и дитя
+http://192.168.1.1:4022/udp/233.99.61.217:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_east.jpg group-title="Фильмовые" ,Viasat TV 1000
+http://192.168.1.1:4022/udp/233.99.61.206:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_action_east.jpg group-title="Фильмовые" ,Viasat TV 1000 Action
+http://192.168.1.1:4022/udp/233.99.61.123:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_russkoe_kino.jpg group-title="Фильмовые" ,Viasat TV 1000 Русское кино
+http://192.168.1.1:4022/udp/233.99.61.44:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nashe_novoe_kino.jpg group-title="Фильмовые" ,НТВ-Плюс Новое кино
+http://192.168.1.1:4022/udp/233.99.61.77:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_nashe_kino.jpg group-title="Фильмовые" ,НТВ-Плюс Наше кино
+http://192.168.1.1:4022/udp/233.99.61.85:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_soyuz.jpg group-title="Фильмовые" ,НТВ-Плюс Кино Союз
+http://192.168.1.1:4022/udp/233.99.61.86:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_kino_plus.jpg group-title="Фильмовые" ,НТВ-Плюс Кино Плюс
+http://192.168.1.1:4022/udp/233.99.61.92:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_kinolux.jpg group-title="Фильмовые" ,НТВ-Плюс Кино Люкс
+http://192.168.1.1:4022/udp/233.99.61.214:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ii/illusion_plus.jpg group-title="Фильмовые" ,Иллюзион+
+http://192.168.1.1:4022/udp/233.99.61.204:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russkij_illusion.jpg group-title="Фильмовые" ,Русский иллюзион
+http://192.168.1.1:4022/udp/233.99.61.84:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/komedia_telekanal.jpg group-title="Фильмовые" ,Комедия ТВ
+http://192.168.1.1:4022/udp/233.99.61.41:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kinopokaz.jpg group-title="Фильмовые" ,Кинопоказ
+http://192.168.1.1:4022/udp/233.99.61.234:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mgm_channel_de.jpg group-title="Фильмовые" ,MGM
+http://192.168.1.1:4022/udp/233.99.61.175:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tv21_lv.jpg group-title="Фильмовые" ,TV XXI
+http://192.168.1.1:4022/udp/233.99.61.136:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/eurokino.jpg group-title="Фильмовые" ,Еврокино
+http://192.168.1.1:4022/udp/233.99.61.192:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zee_tv_ru.jpg group-title="Фильмовые" ,Zee TV
+http://192.168.1.1:4022/udp/233.99.61.66:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_ru.jpg group-title="Фильмовые" ,Universal Channel
+http://192.168.1.1:4022/udp/233.99.61.215:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/diva_universal_ru.jpg group-title="Фильмовые" ,Diva Universal
+http://192.168.1.1:4022/udp/233.99.61.227:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/syfy_universal_ru.jpg group-title="Фильмовые" ,SyFy Universal
+http://192.168.1.1:4022/udp/233.99.61.119:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/axn_scifi.jpg group-title="Фильмовые" ,AXN Sci-Fi
+http://192.168.1.1:4022/udp/233.99.61.128:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fox_life_ru.jpg group-title="Фильмовые" ,Fox Life
+http://192.168.1.1:4022/udp/233.99.61.228:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fox_ru.jpg group-title="Фильмовые" ,FOX
+http://192.168.1.1:4022/udp/233.99.61.150:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/set_eastern_europe.jpg group-title="Фильмовые" ,SET
+http://192.168.1.1:4022/udp/233.99.61.120:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zone_romantica_pl.jpg group-title="Фильмовые" ,Zone Romantica
+http://192.168.1.1:4022/udp/233.99.61.189:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fenix_plus_kino.jpg group-title="Фильмовые" ,Феникс+Кино
+http://192.168.1.1:4022/udp/233.99.61.126:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/amedia_ru.jpg group-title="Фильмовые" ,Amedia
+http://192.168.1.1:4022/udp/233.99.61.243:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russkiy_roman.jpg group-title="Фильмовые" ,Русский роман
+http://192.168.1.1:4022/udp/233.99.61.252:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nstv_nastoyascheye_strashno_tv.jpg group-title="Фильмовые" ,НСТ страшное
+http://192.168.1.1:4022/udp/233.99.61.218:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/park_razvlicenii.jpg group-title="Разные" ,Парк развлечений
+http://192.168.1.1:4022/udp/233.99.61.50:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/stream_retro_tv.jpg group-title="Разные" ,Ретро ТВ
+http://192.168.1.1:4022/udp/233.99.61.222:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nostalgia.jpg group-title="Разные" ,Ностальгия
+http://192.168.1.1:4022/udp/233.99.61.244:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/hh/humor_box.jpg group-title="Разные" ,Юмор Box
+http://192.168.1.1:4022/udp/233.99.61.76:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/raz_tv.jpg group-title="Разные" ,РАЗ ТВ
+http://192.168.1.1:4022/udp/233.99.61.57:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/paramount_comedy_ru.jpg group-title="Разные" ,Paramount Comedy
+http://192.168.1.1:4022/udp/233.99.61.184:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/bbc_entertainment_europe.jpg group-title="Разные" ,BBC Entertainment
+http://192.168.1.1:4022/udp/233.99.61.129:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg group-title="Разные" ,English Club TV
+http://192.168.1.1:4022/udp/233.99.61.121:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/zz/zhivi.jpg group-title="Разные" ,Живи
+http://192.168.1.1:4022/udp/233.99.61.124:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/uu/uspeh.jpg group-title="Разные" ,Успех
+http://192.168.1.1:4022/udp/233.99.61.63:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ii/inva_media_tv_ru.jpg group-title="Разные" ,Inva Media TV
+http://192.168.1.1:4022/udp/233.99.61.97:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tro.jpg group-title="Разные" ,ТРО
+http://192.168.1.1:4022/udp/233.99.61.118:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tnv_planeta.jpg group-title="Разные" ,ТНВ
+http://192.168.1.1:4022/udp/233.99.61.108:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tv_arm_ru.jpg group-title="Разные" ,TV ARM RU
+http://192.168.1.1:4022/udp/233.99.61.33:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/arirang_world.jpg group-title="Разные" ,Arirang TV
+http://192.168.1.1:4022/udp/233.99.61.51:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/soyuz.jpg group-title="Разные" ,Союз
+http://192.168.1.1:4022/udp/233.99.61.58:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/spas.jpg group-title="Разные" ,СПАС
+http://192.168.1.1:4022/udp/233.99.61.149:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tdk_ru.jpg group-title="Разные" ,ТДК
+http://192.168.1.1:4022/udp/233.99.61.199:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fashion_tv.jpg group-title="Разные" ,Fashion TV
+http://192.168.1.1:4022/udp/233.99.61.28:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_channel_ru.jpg group-title="Разные" ,World Fashion
+http://192.168.1.1:4022/udp/233.99.61.113:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/style_tv_ru.jpg group-title="Разные" ,Style TV
+http://192.168.1.1:4022/udp/233.99.61.195:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/domashniy_magazin.jpg group-title="Разные" ,Домашний магазин
+http://192.168.1.1:4022/udp/233.99.61.29:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/top_shop_tv_ru.jpg group-title="Разные" ,Top Shop
+http://192.168.1.1:4022/udp/233.99.61.65:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/tts_tv.jpg group-title="Разные" ,TTC
+http://192.168.1.1:4022/udp/233.99.61.139:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv.jpg group-title="Разные" ,DW TV
+http://192.168.1.1:4022/udp/233.99.61.137:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/rr/russkaja_noch.jpg group-title="Для взрослых" ,Русская ночь
+http://192.168.1.1:4022/udp/233.99.61.232:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nochnoy_klub.jpg group-title="Для взрослых" ,Ночной клуб
+http://192.168.1.1:4022/udp/233.99.61.148:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/bb/blue_hustler.jpg group-title="Для взрослых" ,Blue Hustler
+http://192.168.1.1:4022/udp/233.99.61.87:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/pp/playboy_tv_us.jpg group-title="Для взрослых" ,Playboy TV
+http://192.168.1.1:4022/udp/233.99.61.246:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/xx/xxl_fr.jpg group-title="Для взрослых" ,XXL
+http://192.168.1.1:4022/udp/233.99.61.160:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ee/eurosport_hd.jpg group-title="HD каналы" ,Eurosport HD
+http://192.168.1.1:4022/udp/233.99.61.248:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ss/sport1_ru.jpg group-title="HD каналы" ,Спорт 1 HD
+http://192.168.1.1:4022/udp/233.99.61.247:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_showcase_us.jpg group-title="HD каналы" ,Discovery Showcase HD
+http://192.168.1.1:4022/udp/233.99.61.62:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_eur_hd.jpg group-title="HD каналы" ,National Geographic HD
+http://192.168.1.1:4022/udp/233.99.61.145:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_nature_hd.jpg group-title="HD каналы" ,VIASAT NATURE / HISTORY HD
+http://192.168.1.1:4022/udp/233.99.61.208:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia_hd.jpg group-title="HD каналы" ,National Geographic Wild HD
+http://192.168.1.1:4022/udp/233.99.61.158:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg group-title="HD каналы" ,Animal Planet HD
+http://192.168.1.1:4022/udp/233.99.61.60:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel_hd.jpg group-title="HD каналы" ,Outdoor Channel HD
+http://192.168.1.1:4022/udp/233.99.61.151:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/tt/travel_channel_europe.jpg group-title="HD каналы" ,Travel Channel HD
+http://192.168.1.1:4022/udp/233.99.61.159:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_hd_life.jpg group-title="HD каналы" ,HD Life
+http://192.168.1.1:4022/udp/233.99.61.157:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/my_zen_tv.jpg group-title="HD каналы" ,MyZen.tv HD
+http://192.168.1.1:4022/udp/233.99.61.144:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_live_hd_us.jpg group-title="HD каналы" ,MTV Live HD
+http://192.168.1.1:4022/udp/233.99.61.146:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/mm/mezzo_live_hd.jpg group-title="HD каналы" ,Mezzo Live HD
+http://192.168.1.1:4022/udp/233.99.61.250:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us_hd.jpg group-title="HD каналы" ,Nickelodeon HD
+http://192.168.1.1:4022/udp/233.99.61.138:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fashion_one_us.jpg group-title="HD каналы" ,Fashion One HD
+http://192.168.1.1:4022/udp/233.99.61.147:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/ff/fox_life_ru.jpg group-title="HD каналы" ,Fox Life HD
+http://192.168.1.1:4022/udp/233.99.61.39:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kinopokaz_hd1.jpg group-title="HD каналы" ,Кинопоказ HD-1
+http://192.168.1.1:4022/udp/233.99.61.111:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/kk/kinopokaz_hd2.jpg group-title="HD каналы" ,Кинопоказ HD-2
+http://192.168.1.1:4022/udp/233.99.61.106:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_comedy.jpg group-title="HD каналы" ,TV 1000 COMEDY HD
+http://192.168.1.1:4022/udp/233.99.61.225:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_premium.jpg group-title="HD каналы" ,TV1000 PREMIUM HD
+http://192.168.1.1:4022/udp/233.99.61.245:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_megahit.jpg group-title="HD каналы" ,TV1000 MEGAHIT HD
+http://192.168.1.1:4022/udp/233.99.61.251:5000
+#EXTINF:0 logo=http://www.lyngsat-logo.com/logo/tv/num/8kanal_ru.jpg group-title="HD каналы" ,8 канал HD
+http://192.168.1.1:4022/udp/233.99.61.67:5000
